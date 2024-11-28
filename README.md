@@ -31,14 +31,14 @@
 5. What is type inference in TypeScript?
 
    - [ ] Manually specifying types for variables
-   - [ ] The compiler's ability to automatically determine types
+   - [x] The compiler's ability to automatically determine types
    - [ ] Converting one type to another
    - [ ] Checking types at runtime
 
 6. Which of the following is the correct way to declare a variable with a specific type?
 
    - [ ] `let name: String = "John"`
-   - [ ] `let name: string = "John"`
+   - [x] `let name: string = "John"`
    - [ ] `let name: TEXT = "John"`
    - [ ] `let @string name = "John"`
 
