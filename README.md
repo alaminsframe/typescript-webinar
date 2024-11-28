@@ -19,13 +19,13 @@
    - [ ] .ts
    - [ ] .tsx
    - [ ] .typescript
-   - [ ] Both .ts and .tsx are correct
+   - [x] Both .ts and .tsx are correct
 
 4. What is the `any` type in TypeScript?
 
    - [ ] A type that can only hold numeric values
    - [ ] A type that represents null values
-   - [ ] A type that can hold values of any type
+   - [x] A type that can hold values of any type
    - [ ] A type that represents undefined values
 
 5. What is type inference in TypeScript?
