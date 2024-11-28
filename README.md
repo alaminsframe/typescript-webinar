@@ -45,7 +45,7 @@
 7. What is an interface in TypeScript?
 
    - [ ] A class that cannot be instantiated
-   - [ ] A contract that defines the structure of an object
+   - [x] A contract that defines the structure of an object
    - [ ] A function that returns multiple values
    - [ ] A module system for organizing code
 
@@ -53,26 +53,26 @@
 
    - [ ] `let numbers: number[] = [1, 2, 3]`
    - [ ] `let numbers: Array<number> = [1, 2, 3]`
-   - [ ] Both of the above are correct
+   - [x] Both of the above are correct
    - [ ] `let numbers: [number] = [1, 2, 3]`
 
 9. What is a tuple in TypeScript?
 
-   - [ ] An array with a fixed number of elements of different types
+   - [x]  An array with a fixed number of elements of different types
    - [ ] An array with unlimited elements of the same type
    - [ ] A type that represents null values
    - [ ] A function that returns multiple values
 
 10. What is an enum in TypeScript?
 
-    - [ ] A collection of related values as constants
+    - [x] A collection of related values as constants
     - [ ] A type for numeric values only
     - [ ] A type for string values only
     - [ ] A function that returns boolean values
 
 11. How do you specify optional properties in an interface?
 
-    - [ ] Using the `?` symbol after the property name
+    - [x] Using the `?` symbol after the property name
     - [ ] Using the `optional` keyword
     - [ ] Using the `?:` operator
     - [ ] Using the `undefined` type
@@ -80,7 +80,7 @@
 12. What is a union type in TypeScript?
 
     - [ ] A type that must include all specified types
-    - [ ] A type that can be one of several types
+    - [x] A type that can be one of several types
     - [ ] A type that combines two objects
     - [ ] A type that represents null or undefined
 
@@ -89,11 +89,11 @@
     - [ ] `type MyFunction = (x: number) => number`
     - [ ] `function MyFunction(x: number): number`
     - [ ] `interface MyFunction { (x: number): number }`
-    - [ ] Both A and C are correct
+    - [x] Both A and C are correct
 
 14. What is the purpose of the `never` type?
 
-    - [ ] To indicate that a function never returns
+    - [x] To indicate that a function never returns
     - [ ] To represent null values
     - [ ] To represent undefined values
     - [ ] To indicate optional parameters
@@ -101,7 +101,7 @@
 15. What is type assertion in TypeScript?
 
     - [ ] Automatically converting one type to another
-    - [ ] Telling the compiler to treat a value as a different type
+    - [x] Telling the compiler to treat a value as a different type
     - [ ] Checking types at runtime
     - [ ] Creating new types from existing ones
 
